@@ -36,7 +36,7 @@ Você pode encontrar o link do Front-End aqui: https://github.com/Gabriel-Sasaki
 /api/v1/clientes/{cpf}/emprestimos
 
 #### GET
-/api/v1/clientes/{cpf}/emprestimos
+/api/v1/clientes/{cpf}/emprestimos\
 /api/v1/clientes/{cpf}/emprestimos/{id}
 
 #### PUT
