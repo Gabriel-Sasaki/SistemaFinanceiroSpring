@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/api/v1/clientes")
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://sistema-financeiro-angular.vercel.app")
 public class ClienteController {
     private ClienteService clienteService;
     private EnderecoService enderecoService;

@@ -18,7 +18,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("api/v1/clientes/{cpf}/emprestimos")
-@CrossOrigin("*")
+@CrossOrigin(origins = "https://sistema-financeiro-angular.vercel.app")
 public class EmprestimoController {
     private ClienteService clienteService;
     private EmprestimoService emprestimoService;
