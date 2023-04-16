@@ -1,1 +1,2 @@
-Access-Control-Allow-Origin: https://sistema-financeiro-angular.vercel.app
+/api/v1/*
+  Access-Control-Allow-Origin: https://sistema-financeiro-angular.vercel.app
